@@ -1,8 +1,8 @@
-**\> Fast compile:**
-![](https://github.com/passas/CPP/blob/main/imagens/compile.png)
+**\> Fast compile**\
+&nbsp;&nbsp;&nbsp;&nbsp;![](https://github.com/passas/CPP/blob/main/imagens/compile.png)
 
-**\> Named compile:**
-![](https://github.com/passas/CPP/blob/main/imagens/compile_named.png)
+**\> Named compile:**\
+&nbsp;&nbsp;&nbsp;&nbsp;![](https://github.com/passas/CPP/blob/main/imagens/compile_named.png)
 
-**\> Execute:**
-![](https://github.com/passas/CPP/blob/main/imagens/execute.png)
+**\> Execute:**\
+&nbsp;&nbsp;&nbsp;&nbsp;![](https://github.com/passas/CPP/blob/main/imagens/execute.png)
