@@ -4,7 +4,6 @@
 ```#define TIXML_USE_STL```\
 \
 \> Include the header to use the API\
-\
 ```#include "tinyxml.h"```\
 \
 \> At compile time\
