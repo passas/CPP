@@ -1,8 +1,8 @@
 **\> Fast compile**\
-&nbsp;&nbsp;&nbsp;&nbsp;![](https://github.com/passas/CPP/blob/main/imagens/compile.png)
+&nbsp;&nbsp;&nbsp;&nbsp;\$ c++ stdio.cpp\
 
 **\> Named compile:**\
-&nbsp;&nbsp;&nbsp;&nbsp;![](https://github.com/passas/CPP/blob/main/imagens/compile_named.png)
+&nbsp;&nbsp;&nbsp;&nbsp;\$ c++ stdio.cpp -o stdio\
 
 **\> Execute:**\
-&nbsp;&nbsp;&nbsp;&nbsp;![](https://github.com/passas/CPP/blob/main/imagens/execute.png)
+&nbsp;&nbsp;&nbsp;&nbsp;\$ ./stdio
