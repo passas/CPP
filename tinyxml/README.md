@@ -1,4 +1,4 @@
-[documentation](https://www.cs.cmu.edu/%7Epreethi/src/tinyxml/docs/index.html)\
+[documentation](https://www.cs.cmu.edu/%7Epreethi/src/tinyxml/docs/hierarchy.html)\
 \
 \> At linux, may be needed to paste it at the first line of the tinyxml.h\
 ```#define TIXML_USE_STL```\
